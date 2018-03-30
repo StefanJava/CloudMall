@@ -1,0 +1,3 @@
+com\stefan\sso\service\impl\LoginServiceImpl.class
+com\stefan\sso\service\impl\RegisterServiceImpl.class
+com\stefan\sso\service\impl\TokenServiceImpl.class

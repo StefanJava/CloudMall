@@ -1,0 +1,4 @@
+#key prefix
+REDIS_ITEM_PRE=ITEM_INFO
+#deadline one hour
+ITEM_CACHE_EXPIRE=3600

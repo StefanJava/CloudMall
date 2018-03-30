@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/e3-cart-web/src/main" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e3-cart-web/target/tomcat/work/Tomcat/localhost" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e3-cart/e3-cart-interface/src/main" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e3-cart/e3-cart-service/src/main" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e3-common/src/main" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e3-content/e3-content-interface/src/main" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e3-content/e3-content-service/src/main" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e3-content/e3-content-service/src/test" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e3-item-web/src/main" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e3-item-web/src/test" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e3-item-web/target/tomcat/work/Tomcat/localhost" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e3-manager-web/src/main" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e3-manager-web/src/test" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e3-manager/e3-manager-dao/src/main" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e3-manager/e3-manager-interface/src/main" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e3-manager/e3-manager-pojo/src/main" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e3-manager/e3-manager-service/src/main" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e3-manager/e3-manager-service/src/test" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e3-order-web/src/main" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e3-order-web/target/tomcat/work/Tomcat/localhost" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e3-order/e3-order-interface/src/main" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e3-order/e3-order-service/src/main" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e3-portal-web/src/main" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e3-portal-web/target/tomcat/work/Tomcat/localhost" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e3-search-web/src/main" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e3-search-web/target/tomcat/work/Tomcat/localhost" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e3-search/e3-search-interface/src/main" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e3-search/e3-search-service/src/main" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e3-search/e3-search-service/src/test" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e3-sso-web/src/main" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e3-sso-web/target/tomcat/work/Tomcat/localhost" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e3-sso/e3-sso-interface/src/main" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e3-sso/e3-sso-service/src/main" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/fastdfs_client/src/main" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/pagehelper/src/main" vcs="svn" />
+  </component>
+</project>

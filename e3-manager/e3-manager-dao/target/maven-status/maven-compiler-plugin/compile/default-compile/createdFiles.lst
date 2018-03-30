@@ -1,0 +1,11 @@
+com\stefan\mapper\TbItemParamMapper.class
+com\stefan\mapper\TbItemParamItemMapper.class
+com\stefan\mapper\TbOrderMapper.class
+com\stefan\mapper\TbContentCategoryMapper.class
+com\stefan\mapper\TbUserMapper.class
+com\stefan\mapper\TbOrderItemMapper.class
+com\stefan\mapper\TbItemMapper.class
+com\stefan\mapper\TbItemCatMapper.class
+com\stefan\mapper\TbOrderShippingMapper.class
+com\stefan\mapper\TbContentMapper.class
+com\stefan\mapper\TbItemDescMapper.class

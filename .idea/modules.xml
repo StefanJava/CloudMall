@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/generatorSqlmapCustom/generatorSqlmapCustom.iml" filepath="$PROJECT_DIR$/generatorSqlmapCustom/generatorSqlmapCustom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-order-web/target/tomcat/work/Tomcat/localhost/localhost.iml" filepath="$PROJECT_DIR$/e3-order-web/target/tomcat/work/Tomcat/localhost/localhost.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-cart-web/target/tomcat/work/Tomcat/localhost/localhost1.iml" filepath="$PROJECT_DIR$/e3-cart-web/target/tomcat/work/Tomcat/localhost/localhost1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-search-web/target/tomcat/work/Tomcat/localhost/localhost2.iml" filepath="$PROJECT_DIR$/e3-search-web/target/tomcat/work/Tomcat/localhost/localhost2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-portal-web/target/tomcat/work/Tomcat/localhost/localhost3.iml" filepath="$PROJECT_DIR$/e3-portal-web/target/tomcat/work/Tomcat/localhost/localhost3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-item-web/target/tomcat/work/Tomcat/localhost/localhost4.iml" filepath="$PROJECT_DIR$/e3-item-web/target/tomcat/work/Tomcat/localhost/localhost4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-sso-web/target/tomcat/work/Tomcat/localhost/localhost5.iml" filepath="$PROJECT_DIR$/e3-sso-web/target/tomcat/work/Tomcat/localhost/localhost5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-search/e3-search-interface/src/main/main.iml" filepath="$PROJECT_DIR$/e3-search/e3-search-interface/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-manager/e3-manager-service/src/main/main1.iml" filepath="$PROJECT_DIR$/e3-manager/e3-manager-service/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-content/e3-content-service/src/main/main10.iml" filepath="$PROJECT_DIR$/e3-content/e3-content-service/src/main/main10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fastdfs_client/src/main/main11.iml" filepath="$PROJECT_DIR$/fastdfs_client/src/main/main11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-sso/e3-sso-service/src/main/main12.iml" filepath="$PROJECT_DIR$/e3-sso/e3-sso-service/src/main/main12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-manager/e3-manager-interface/src/main/main13.iml" filepath="$PROJECT_DIR$/e3-manager/e3-manager-interface/src/main/main13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-cart/e3-cart-interface/src/main/main14.iml" filepath="$PROJECT_DIR$/e3-cart/e3-cart-interface/src/main/main14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-search-web/src/main/main15.iml" filepath="$PROJECT_DIR$/e3-search-web/src/main/main15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-common/src/main/main16.iml" filepath="$PROJECT_DIR$/e3-common/src/main/main16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-sso-web/src/main/main17.iml" filepath="$PROJECT_DIR$/e3-sso-web/src/main/main17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-order/e3-order-interface/src/main/main18.iml" filepath="$PROJECT_DIR$/e3-order/e3-order-interface/src/main/main18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pagehelper/src/main/main19.iml" filepath="$PROJECT_DIR$/pagehelper/src/main/main19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-order-web/src/main/main2.iml" filepath="$PROJECT_DIR$/e3-order-web/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-search/e3-search-service/src/main/main20.iml" filepath="$PROJECT_DIR$/e3-search/e3-search-service/src/main/main20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-order/e3-order-service/src/main/main21.iml" filepath="$PROJECT_DIR$/e3-order/e3-order-service/src/main/main21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-manager/e3-manager-dao/src/main/main22.iml" filepath="$PROJECT_DIR$/e3-manager/e3-manager-dao/src/main/main22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-sso/e3-sso-interface/src/main/main23.iml" filepath="$PROJECT_DIR$/e3-sso/e3-sso-interface/src/main/main23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-manager/e3-manager-pojo/src/main/main3.iml" filepath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-cart-web/src/main/main4.iml" filepath="$PROJECT_DIR$/e3-cart-web/src/main/main4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-item-web/src/main/main5.iml" filepath="$PROJECT_DIR$/e3-item-web/src/main/main5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-portal-web/src/main/main6.iml" filepath="$PROJECT_DIR$/e3-portal-web/src/main/main6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-manager-web/src/main/main7.iml" filepath="$PROJECT_DIR$/e3-manager-web/src/main/main7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-cart/e3-cart-service/src/main/main8.iml" filepath="$PROJECT_DIR$/e3-cart/e3-cart-service/src/main/main8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-content/e3-content-interface/src/main/main9.iml" filepath="$PROJECT_DIR$/e3-content/e3-content-interface/src/main/main9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-manager/e3-manager-service/src/test/test.iml" filepath="$PROJECT_DIR$/e3-manager/e3-manager-service/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-search/e3-search-service/src/test/test1.iml" filepath="$PROJECT_DIR$/e3-search/e3-search-service/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-item-web/src/test/test2.iml" filepath="$PROJECT_DIR$/e3-item-web/src/test/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-manager-web/src/test/test3.iml" filepath="$PROJECT_DIR$/e3-manager-web/src/test/test3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-content/e3-content-service/src/test/test4.iml" filepath="$PROJECT_DIR$/e3-content/e3-content-service/src/test/test4.iml" />
+    </modules>
+  </component>
+</project>

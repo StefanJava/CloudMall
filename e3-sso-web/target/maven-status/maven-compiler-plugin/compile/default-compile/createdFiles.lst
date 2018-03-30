@@ -1,0 +1,3 @@
+com\stefan\sso\controller\LoginController.class
+com\stefan\sso\controller\RegisterController.class
+com\stefan\sso\controller\TokenController.class
